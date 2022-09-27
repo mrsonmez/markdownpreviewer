@@ -6,4 +6,4 @@ git clone https://github.com/mrsonmez/markdownpreviewer.git
 
 ## Used technologies and libraries
 
-React, react-markdown,basic css
+React,Vite, react-markdown,Css
