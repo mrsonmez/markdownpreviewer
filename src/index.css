@@ -1,0 +1,27 @@
+* {
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+.container {
+  display: flex;
+  flex: 1;
+}
+
+textarea {
+  width: 700px;
+  background-color: #0d1117;
+  color: white;
+  padding: 50px;
+  height: 600px;
+}
+.markdown {
+  margin-left: 20px;
+  padding: 50px;
+  width: 700px;
+  height: auto;
+  background-color: #0d1117;
+  color: white;
+}
+body {
+  background-color: #115555;
+}
