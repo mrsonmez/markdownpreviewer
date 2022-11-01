@@ -4,6 +4,8 @@
 }
 .container {
   display: flex;
+  margin-top: 80px;
+  justify-content: center;
   flex: 1;
 }
 
@@ -23,5 +25,15 @@ textarea {
   color: white;
 }
 body {
-  background-color: #115555;
+  background-color: #ffdd67;
+}
+
+button {
+  width: 80px;
+  height: 80px;
+  display: block;
+  margin: 0 auto;
+  border: 0;
+  cursor: pointer;
+  background-color: #ffeeb4;
 }
