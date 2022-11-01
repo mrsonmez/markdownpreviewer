@@ -22,4 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 vite.config.js
+=======
+vite.config.js
+>>>>>>> 0f3adc576652ad21571e8c34cfdbb50062e78811
